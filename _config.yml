@@ -1,1 +1,4 @@
-theme: minima
+title: BiKE
+description: Biochemical Knowledge Extraction Challange
+show_downloads: true
+theme: jekyll-theme-slate
