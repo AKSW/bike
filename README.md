@@ -4,3 +4,19 @@ The knowledge of over 50 years of studies on biodiversity available in scientifi
 
 However, to date, most of the structured biochemical information available on the Web is manually curated, and it is practically impossible to keep pace with the research being constantly published in scientific articles. Within this proposal, we want to propose a challenge to speed up and promote research on automatic biochemical knowledge extraction mechanisms by the Semantic Web scientific community with the aim of increasing the information available on natural products to promote the development of environmental-friendly products while increasing the community awareness of the biodiversity value.
 
+# Format and Length
+
+We expect to have a sufficient number of acceptable submissions, i.e. 7+ papers including long and short, for a full-day event.  We want to promote the discussion of the different approaches and award the best methods.  Authors will be invited to submit and present their knowledge extraction methods at the venue. Submission will follow a 12 pages format.
+
+# Agenda
+
+``coming soon``
+
+
+# Awards
+
+We will award to the first, second and third best biochemical knowledge extraction methods as follows:
+
+- First Prize: EUR 1000
+- Second Prize: EUR 500
+- Third Prize: EUR 250
