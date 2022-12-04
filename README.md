@@ -27,7 +27,7 @@ The first, second and third best biochemical knowledge extraction methods are go
 - ``Second Place``: EUR 500
 - ``Third Place``: EUR 250
 
-# Organizing Comittee
+# Organizing Committee
 
 Vanderlan da Silva Bozani, UNESP, Brazil
 
