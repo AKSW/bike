@@ -11,6 +11,7 @@ However, to date, most of the structured biochemical information available on th
 # Submission guidelines
 
 - Every competing approach should submit a 12 pages article describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
+- All papers should be submitted to easychair under the following link  ``coming soon``.
 
 
 # Agenda
