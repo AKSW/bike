@@ -15,8 +15,8 @@ We expect to have a sufficient number of acceptable submissions, i.e. 7+ papers 
 
 # Awards
 
-We will award to the first, second and third best biochemical knowledge extraction methods as follows:
+The first, second and third best biochemical knowledge extraction methods are going to be award as follows:
 
-- First Prize: EUR 1000
-- Second Prize: EUR 500
-- Third Prize: EUR 250
+- ``First Place``: EUR 1000
+- ``Second Place``: EUR 500
+- ``Third Place``: EUR 250
