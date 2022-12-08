@@ -47,7 +47,7 @@ Adriano Defini Andricopulo, USP, Brazil
 
 Thomas Riechert, HTWK, Germany
 
-Marilia Valli, USP, Brrazil
+Marilia Valli, USP, Brazil
 
 Alan Pilon, USP, Brazil
 
