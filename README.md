@@ -5,7 +5,7 @@ The knowledge of over 50 years of studies on biodiversity available in scientifi
 However, to date, most of the structured biochemical information available on the Web is manually curated, and it is practically impossible to keep pace with the research being constantly published in scientific articles. Within this proposal, we want to propose a challenge to speed up and promote research on automatic biochemical knowledge extraction mechanisms by the Semantic Web scientific community with the aim of increasing the information available on natural products to promote the development of environmental-friendly products while increasing the community's awareness of the biodiversity value.
 
 
-# Challenge
+# [Challenge](https://aksw.github.io/bike/#challenge)
 
 ``coming soon``
 
@@ -20,18 +20,18 @@ However, to date, most of the structured biochemical information available on th
 ``coming soon``
 
 
-# Submission guidelines
+# [Submission guidelines](https://aksw.github.io/bike/#challenge)
 
 - Every competing approach should submit a 12 pages article describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
 
 - All papers should be submitted to easychair under the following link  ``coming soon``.
 
 
-# Agenda
+# [Agenda](https://aksw.github.io/bike/#agenda)
 
 ``coming soon``
 
-# Awards
+# [Awards](https://aksw.github.io/bike/#awards)
 
 The first, second and third best biochemical knowledge extraction methods are going to be awarded as follows:
 
@@ -39,7 +39,7 @@ The first, second and third best biochemical knowledge extraction methods are go
 - ``Second Place``: EUR 500
 - ``Third Place``: EUR 250
 
-# Organizing Committee
+# [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
 Vanderlan da Silva Bozani, UNESP, Brazil
 
