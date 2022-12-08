@@ -5,9 +5,20 @@ The knowledge of over 50 years of studies on biodiversity available in scientifi
 However, to date, most of the structured biochemical information available on the Web is manually curated, and it is practically impossible to keep pace with the research being constantly published in scientific articles. Within this proposal, we want to propose a challenge to speed up and promote research on automatic biochemical knowledge extraction mechanisms by the Semantic Web scientific community with the aim of increasing the information available on natural products to promote the development of environmental-friendly products while increasing the community's awareness of the biodiversity value.
 
 
-# Dataset
+# Challenge
 
 ``coming soon``
+
+
+## Data set
+
+``coming soon``
+
+
+## Metrics
+
+``coming soon``
+
 
 # Submission guidelines
 
