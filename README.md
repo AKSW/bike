@@ -41,16 +41,21 @@ The first, second and third best biochemical knowledge extraction methods are go
 
 # [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
+### General Chairs
+
+Edgard Marx, HTWK, Germany
+
+Marilia Valli, USP, Brazil
+
+### Program Committee
+
 Vanderlan da Silva Bozani, UNESP, Brazil
 
 Adriano Defini Andricopulo, USP, Brazil
 
 Thomas Riechert, HTWK, Germany
 
-Marilia Valli, USP, Brazil
-
 Alan Pilon, USP, Brazil
 
-Edgard Marx, HTWK, Germany
 
 
