@@ -47,7 +47,7 @@ Edgard Marx, HTWK, Germany
 
 Joao Victor da Silva e Silva, USP, Brazil
 
-Maria Valli, USP, Brazil
+Marilia Valli, USP, Brazil
 
 ### Program Committee
 
