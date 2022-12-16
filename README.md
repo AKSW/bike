@@ -29,7 +29,12 @@ However, to date, most of the structured biochemical information available on th
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
-``coming soon``
+- Release of training data and instructions: Friday, January 20th, 2023
+- Paper submission deadline: Friday, March 10th, 2023
+- Notification & Reviews: Friday, April 7th, 2023
+- Release of test dataset: Friday, April 14th, 2023
+- Submission of camera-ready papers: Friday, April 28th, 2023
+- Workshop at ESWC: May 29th, 2022 (09:00AM-12:30PM) = Presentation of Results
 
 # [Awards](https://aksw.github.io/bike/#awards)
 
