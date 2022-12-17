@@ -34,7 +34,7 @@ However, to date, most of the structured biochemical information available on th
 - Notification & Reviews: Friday, April 7th, 2023
 - Release of test dataset: Friday, April 14th, 2023
 - Submission of camera-ready papers: Friday, April 28th, 2023
-- Workshop at ESWC: ``coming soon`` = Presentation of Results
+- Workshop at ESWC: ``coming soon``
 
 # [Awards](https://aksw.github.io/bike/#awards)
 
