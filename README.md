@@ -29,7 +29,7 @@ More details coming soon.
 
 - The accepted contributions will be published in the proceedings of the workshop. 
 
-- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be online), not complying with this rule will make the approach automatically disclasified.
+- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be heald online). Not complying with this rule may make the approach automatically disclasified.
 
 - All papers should be submitted to easychair under the following link  [https://easychair.org/conferences/?conf=bike2023](https://easychair.org/conferences/?conf=bike2023).
 
