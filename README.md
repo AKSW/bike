@@ -61,7 +61,7 @@ Joao Victor da Silva e Silva, USP, Brazil
 
 Marilia Valli, USP, Brazil
 
-### Program Committee
+### Advisory Committee
 
 Vanderlan da Silva Bozani, UNESP, Brazil
 
