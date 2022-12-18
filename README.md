@@ -22,7 +22,13 @@ However, to date, most of the structured biochemical information available on th
 
 # [Submission guidelines](https://aksw.github.io/bike/#challenge)
 
-- Every competing approach should submit a 12 pages article describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
+- Every competing approach should submit a 12 pages article written in english describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
+
+- All submissions will be peer-reviewed by the Program Committee. 
+
+- The accepted contributions will be published in the proceedings of the workshop. 
+
+- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be online), not complying with this rule will make the approach automatically disclasified.
 
 - All papers should be submitted to easychair under the following link  [https://easychair.org/conferences/?conf=bike2023](https://easychair.org/conferences/?conf=bike2023).
 
