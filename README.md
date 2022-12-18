@@ -7,13 +7,19 @@ However, to date, most of the structured biochemical information available on th
 
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
+We invite researchers to participate by re-using or designing new innovative Biochemical Extraction methods. The participants will have the opportunity to present, discuss and display their system at the BiKE workshop.
+
+The Challenge consists in, giving a biochemical research article, extract relevant information matching an given ontology.
+
+More details coming soon.
+
+## Training Data set
+
 ``coming soon``
 
+## Rules
 
-## Data set
-
-``coming soon``
-
+You can not use any other source of data for training apart from the given training data set.
 
 ## Metrics
 
