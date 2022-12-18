@@ -13,10 +13,6 @@ The Challenge consists in, giving a biochemical research article, extract releva
 
 More details coming soon.
 
-## Rules
-
-You can not use any other source of data for training apart from the given training data set.
-
 ## Training Data set
 
 ``coming soon``
