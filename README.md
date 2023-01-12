@@ -37,10 +37,10 @@ More details coming soon.
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
 - Release of training data and instructions: Friday, January 20th, 2023
-- Paper submission deadline: March 9th, 2023
-- Notification & Reviews: April 13rd, 2023
-- Release of test dataset & results: April 14th, 2023
-- Submission of camera-ready papers: April 20th, 2023
+- Paper submission deadline: Feburary 28th, 2023
+- Notification & Reviews: March 28th, 2023
+- Release of test dataset & results: April 7th, 2023
+- Submission of camera-ready papers: April 11th, 2023
 - Workshop at ESWC: ``coming soon``
 
 # [Awards](https://aksw.github.io/bike/#awards)
