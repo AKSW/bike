@@ -14,12 +14,49 @@ More details coming soon.
 
 ## Training Data set
 
-``coming soon``
+The dataset used for evaluation and training was generated from hundreds of peer-reviewed scientific articles with information on more than 2,521 possibilities of natural product extraction. 
+The dataset was built manually by chemistry specialists that read the articles annotating four relevant properties associated with each natural product discussed in the academic publication.
+For this challenge, we focus on five NuBBE properties for training and prediction: (I) compound name (\href{http://www.w3.org/2000/01/rdf-schema#label}{rdfs:label}), (II) bioactivity (\href{http://nubbe.aksw.org/ontology/index.html#d4e142}{nubbe:biologicalActivity}), (III) species from where natural products were extracted (\href{http://nubbe.aksw.org/ontology/index.html#d4e227}{nubbe:collectionSpecie}), (IV) collection site of these species (\href{http://nubbe.aksw.org/ontology/index.html#d4e206}{nubbe:collectionSite}), and (V) isolation type (\href{http://nubbe.aksw.org/ontology/index.html#d4e248}{nubbe:collectionType}).
+The table below presents an overview of the number of unique properties.
+
+All papers are present on all train splits, but the papers selected for each test split have all links to manually extracted characteristics removed.
+This means that these papers will not be connected to the rest of the knowledge graph.
+The provided code for generating the knowledge graph representation with python's networkx uses BERTopic's extracted topics for reconnecting the knowledge graph.
+The assigned topics are also filtered by the following rule: if the topic is present in more than 80% of examples it is eliminated since it does not discriminate from the others.
+Part of the challenge is to figure out other ways to reconnect the knowledge graph with automatically extracted characteristics like: citation networks for the authors, conferences, and others.
+
+We provide the original flat data, the original networkx knowledge graph.
+We also provide 10 previously randomized train/test splits that contain the links maintained and removed respectively.
+For every train/test split we also provide a prepared networkx knowledge graph.
+The provided data can be accessed here: https://drive.google.com/drive/folders/1NXLQQsIXe0hz32KSOeSG1PCAzFLHoSGh?usp=sharing
+The source code and documentation for NatUKE can also be accessed at: https://github.com/AKSW/natuke
+
+For referencing the benchmark used please refere to:
+
+``
+@inproceedings{icsc/natuke/2023,
+  title = {NatUKE: A Benchmark for Natural Product
+    Knowledge Extraction from Academic Literature},
+  author = {Paulo Viviurka do Carmo,
+    Edgard Marx,
+    Ricardo Marcacini,
+    Marilia Valli,
+    João Victor Silva e Silva,
+    Alan Pilon},
+  booktitle = {17th IEEE International Conference on Semantic Computing},
+  year = {2023},
+  publisher = {IEEE}
+}
+``
 
 ## Evaluation Metrics
 
-``coming soon``
-
+We are interested in ranking the correct document prediction of real links that were hidden in the knowledge graph.
+Together with MRR (Mean Reciprocal Rank), hits@k is a ranking metric for when there is only one correct document.
+On the other hand, mAP (mean Average Precision) and nDCG (normalized Discounted Cumulative Gain) are designed for ranking when a list of relevant documents is available.
+We chose hits@k because it allows us to evaluate each characteristic extraction with reasonable expectations by customizing the k value.
+Following the rule used in NatUKE the final k values in this table are from 1 to 50 considering values multiples of 5 and two thresholds: (1) a score equal or higher than 0.50 is achieved; and (2) a score equal or higher than 0.20 is achieved.
+Please refer to the NatUKE benchmark paper for further details.
 
 # [Submission guidelines](https://aksw.github.io/bike/#challenge)
 
