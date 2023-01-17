@@ -10,8 +10,6 @@ However, to date, most of the structured biochemical information available on th
 We invite researchers to participate by re-using or designing new innovative Biochemical Extraction methods. The participants will have the opportunity to present, discuss and display their knowlege extraction approach at the BiKE workshop.
 The Challenge consists in extract relevant information from a set of biochemical research articles constructing a knowlege graph through a given ontology.
 
-More details coming soon.
-
 ## Training Data set
 
 The dataset used for evaluation and training was generated from hundreds of peer-reviewed scientific articles with information on more than 2,521 possibilities of natural product extraction. 
@@ -33,7 +31,7 @@ The source code and documentation for NatUKE can also be accessed at: https://gi
 
 For referencing the benchmark used please refere to:
 
-``
+```
 @inproceedings{icsc/natuke/2023,
   title = {NatUKE: A Benchmark for Natural Product
     Knowledge Extraction from Academic Literature},
@@ -47,7 +45,7 @@ For referencing the benchmark used please refere to:
   year = {2023},
   publisher = {IEEE}
 }
-``
+```
 
 ## Evaluation Metrics
 
