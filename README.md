@@ -27,8 +27,8 @@ Part of the challenge is to figure out other ways to reconnect the knowledge gra
 We provide the original flat data, the original networkx knowledge graph.
 We also provide 10 previously randomized train/test splits that contain the links maintained and removed respectively.
 For every train/test split we also provide a prepared networkx knowledge graph.
-The provided data can be accessed here: https://drive.google.com/drive/folders/1NXLQQsIXe0hz32KSOeSG1PCAzFLHoSGh?usp=sharing
-The source code and documentation for NatUKE can also be accessed at: https://github.com/AKSW/natuke
+The provided data can be accessed here: [https://drive.google.com/drive/folders/1NXLQQsIXe0hz32KSOeSG1PCAzFLHoSGh?usp=sharing](https://drive.google.com/drive/folders/1NXLQQsIXe0hz32KSOeSG1PCAzFLHoSGh?usp=sharing)
+The source code and documentation for NatUKE can also be accessed at: [https://github.com/AKSW/natuke](https://github.com/AKSW/natuke)
 
 For referencing the benchmark used please refere to:
 
