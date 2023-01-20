@@ -7,8 +7,9 @@ However, to date, most of the structured biochemical information available on th
 
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
-We invite researchers to participate by re-using or designing new innovative Biochemical Extraction methods. The participants will have the opportunity to present, discuss and display their knowlege extraction approach at the BiKE workshop.
-The Challenge consists in extract relevant information from a set of biochemical research articles constructing a knowlege graph through a given ontology.
+We invite researchers to participate by re-using or designing new innovative Biochemical Extraction methods. 
+The participants will have the opportunity to present, discuss and display their knowlege extraction approach at the BiKE workshop.
+The Challenge consists in extracting relevant information from a set of biochemical research articles constructing a knowlege graph through a given ontology.
 
 ## Training Data set
 
