@@ -2,14 +2,14 @@ The growth and evolution of our civilization have been based on the use of biodi
 
 The knowledge of over 50 years of studies on biodiversity available in scientific articles can become easier accessible when organized and shared through knowledge graphs. It can assist in the development of different fields of science, and bio-friendly products with high added value as well as guide public policies to bring benefits both to science and to strengthen the bio-economy. All these benefits demonstrate the need for organized and standardized policies and procedures to produce high-quality and valuable information. In this sense, the Semantic Web architecture choices can facilitate the publishing, sharing, and consuming of this valuable information among researchers and leading institutions. Once the data is in the RDF format, contributions from the wide range of the so-called Linked Data fields such as knowledge discovery, machine learning, data fusion, information retrieval, and data quality can help to foster sustainable growth of biochemical data as well as facilitate harvest all its potential to a more environmentally conscious society. 
 
-However, to date, most of the structured biochemical information available on the Web is manually curated, and it is practically impossible to keep pace with the research being constantly published in scientific articles. Within this challenge, we want to speed up and promote research on automatic biochemical knowledge extraction mechanisms by the Semantic Web scientific community with the aim of increasing the information available on natural products to promote the development of environmental-friendly products while increasing the community's awareness of the biodiversity value.
+However, to date, most of the structured biochemical information available on the Web is manually curated, and it is practically impossible to keep pace with the research being constantly published in scientific articles. Within this challenge, we want to speed up and promote research on automatic biochemical knowledge extraction mechanisms by the Semantic Web scientific community to increase the information available on natural products to promote the development of environmental-friendly products while increasing the community's awareness of the biodiversity value.
 
 
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
 We invite researchers to participate by re-using or designing new innovative Biochemical Extraction methods. 
-The participants will have the opportunity to present, discuss and display their knowlege extraction approach at the BiKE workshop.
-The Challenge consists in extracting relevant information from a set of biochemical research articles constructing a knowlege graph through a given ontology.
+The participants will have the opportunity to present, discuss and display their knowledge extraction approach at the BiKE workshop.
+The Challenge consists in extracting relevant information from a set of biochemical research articles and constructing a knowledge graph through a given ontology.
 
 ## Training Data set
 
@@ -22,15 +22,15 @@ All papers are present on all train splits, but the papers selected for each tes
 This means that these papers will not be connected to the rest of the knowledge graph.
 The provided code for generating the knowledge graph representation with python's networkx uses BERTopic's extracted topics for reconnecting the knowledge graph.
 The assigned topics are also filtered by the following rule: if the topic is present in more than 80% of examples it is eliminated since it does not discriminate from the others.
-Part of the challenge is to figure out other ways to reconnect the knowledge graph with automatically extracted characteristics like: citation networks for the authors, conferences, and others.
+Part of the challenge is to figure out other ways to reconnect the knowledge graph with automatically extracted characteristics like citation networks for the authors, conferences, and others.
 
-We provide the original flat data, the original networkx knowledge graph.
+We provide the original flat data and the original networkx knowledge graph.
 We also provide 10 previously randomized train/test splits that contain the links maintained and removed respectively.
-For every train/test split we also provide a prepared networkx knowledge graph.
+For every train/test split, we also provide a prepared networkx knowledge graph.
 The provided data can be accessed here: [https://drive.google.com/drive/folders/1NXLQQsIXe0hz32KSOeSG1PCAzFLHoSGh?usp=sharing](https://drive.google.com/drive/folders/1NXLQQsIXe0hz32KSOeSG1PCAzFLHoSGh?usp=sharing)
 The source code and documentation for NatUKE can also be accessed at: [https://github.com/AKSW/natuke](https://github.com/AKSW/natuke)
 
-For referencing the benchmark used please refere to:
+For referencing the benchmark used please refer to:
 
 ```
 @inproceedings{icsc/natuke/2023,
@@ -65,7 +65,7 @@ Please refer to the NatUKE benchmark paper for further details.
 
 - The accepted contributions will be published in the proceedings of the workshop. 
 
-- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be heald online). Not complying with this rule may make the approach automatically disclasified.
+- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be held online). Not complying with this rule may make the approach automatically disqualified.
 
 - All papers should be submitted to easychair under the following link  [https://easychair.org/conferences/?conf=bike2023](https://easychair.org/conferences/?conf=bike2023).
 
@@ -73,7 +73,7 @@ Please refer to the NatUKE benchmark paper for further details.
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
 - Release of training data and instructions: Friday, January 20th, 2023
-- Paper submission deadline: Feburary 28th, 2023
+- Paper submission deadline: February 28th, 2023
 - Notification & Reviews: March 28th, 2023
 - Release of test dataset & results: April 7th, 2023
 - Submission of camera-ready papers: April 11th, 2023
@@ -81,7 +81,7 @@ Please refer to the NatUKE benchmark paper for further details.
 
 # [Awards](https://aksw.github.io/bike/#awards)
 
-The first, second and third best biochemical knowledge extraction methods are going to be awarded as follows:
+The first, second, and third best biochemical knowledge extraction methods are going to be awarded as follows:
 
 - ``First Place``: EUR 1000
 - ``Second Place``: EUR 500
@@ -106,6 +106,3 @@ Adriano Defini Andricopulo, USP, Brazil
 Thomas Riechert, HTWK, Germany
 
 Alan Pilon, USP, Brazil
-
-
-
