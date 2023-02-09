@@ -61,9 +61,11 @@ Please refer to the NatUKE benchmark paper for further details.
 
 - Every competing approach should submit a 12 pages article written in english describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
 
+- Paper Overleaf Template: [https://lnkd.in/dewtrQ9d](https://lnkd.in/dewtrQ9d)
+
 - All submissions will be peer-reviewed by the Program Committee. 
 
-- The accepted contributions will be published in the proceedings of the workshop. 
+- The accepted contributions will be evaluated based on its quality and published in the proceedings of the workshop. 
 
 - Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be held online). Not complying with this rule may make the approach automatically disqualified.
 
