@@ -90,10 +90,10 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
 
 - Release of training data and instructions: Friday, January 20th, 2023 PST
 - **(new)** Result submission deadline: April 27th, 2023 PST
-- Release of test dataset & results: (extended) ~April 7th, 2023~ **May 22th, 2023 PST**
-- Paper submission deadline: (extended) ~February 28th, 2023~ **May 27th, 2023 PST**
-- Notification & Reviews: (extended) ~March 28th, 2023~ **Jun 15th, 2023 PST**
-- Submission of camera-ready papers: (extended) ~April 11th, 2023~ **Jun 27th, 2023 PST**
+- **(extended)** Release of test dataset & results: ~~April 7th, 2023~~ **May 22th, 2023 PST**
+- **(extended)** Paper submission deadline: ~~February 28th, 2023~~ **May 27th, 2023 PST**
+- **(extended)** Notification & Reviews: ~~March 28th, 2023~~ **Jun 15th, 2023 PST**
+- **(extended)** Submission of camera-ready papers: ~~April 11th, 2023~~ **Jun 27th, 2023 PST**
 - Workshop at ESWC: ``coming soon``
 
 # [Awards](https://aksw.github.io/bike/#awards)
