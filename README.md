@@ -59,6 +59,19 @@ Please refer to the NatUKE benchmark paper for further details.
 
 # [Submission guidelines](https://aksw.github.io/bike/#challenge)
 
+On 12th of Feburary we decided to split the submission in two stages (1) results and (2) papers.
+
+## Results
+
+- Every competing team should submit their results using the paper template.
+
+- The only information mandatory in the result submission are as follows:
+  - A table containing the performance of your approach in comparision with the baseline;
+  - A link to an open repository containing the code used for training;
+  - Title, Authors and respective affiliations.
+
+# Paper
+
 - Every competing approach should submit a 12 pages article written in english describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
 
 - Paper Overleaf Template: [https://lnkd.in/dewtrQ9d](https://lnkd.in/dewtrQ9d)
@@ -74,11 +87,12 @@ Please refer to the NatUKE benchmark paper for further details.
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
-- Release of training data and instructions: Friday, January 20th, 2023
-- Paper submission deadline: February 28th, 2023
-- Notification & Reviews: March 28th, 2023
-- Release of test dataset & results: April 7th, 2023
-- Submission of camera-ready papers: April 11th, 2023
+- Release of training data and instructions: Friday, January 20th, 2023 PST
+- **(new)** Result submission deadline: April 27th, 2023 PST
+- Release of test dataset & results: (extended) ~April 7th, 2023~ **May 22th, 2023 PST**
+- Paper submission deadline: (extended) ~February 28th, 2023~ **May 27th, 2023 PST**
+- Notification & Reviews: (extended) ~March 28th, 2023~ **Jun 15th, 2023 PST**
+- Submission of camera-ready papers: (extended) ~April 11th, 2023~ **Jun 27th, 2023 PST**
 - Workshop at ESWC: ``coming soon``
 
 # [Awards](https://aksw.github.io/bike/#awards)
