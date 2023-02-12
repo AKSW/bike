@@ -68,7 +68,8 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
 - The only information mandatory in the result submission are as follows:
   - A table containing the performance of your approach in comparision with the baseline;
   - A link to an open repository containing the code used for training and all the necessary resources including files and pre-trained models to replicate the results;
-  - Title, Authors and respective affiliations.
+  - Title, Authors and respective affiliations;
+  - To facilitate your result submission, we prepared a tempalte: https://www.overleaf.com/read/zcbppmhfkbpd
 
 # Paper
 
