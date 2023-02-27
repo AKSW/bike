@@ -71,6 +71,11 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
   - Title, Authors and respective affiliations;
   - To facilitate your result submission, we prepared a template: [https://www.overleaf.com/read/zcbppmhfkbpd](https://www.overleaf.com/read/zcbppmhfkbpd)
 
+# [QA](https://aksw.github.io/bike/#qa)
+
+To help participants to get onboard, we have created an QA channel at slack, you can post your questions directly there: 
+- https://chemnet.slack.com/archives/C04QZ77BS2K 
+
 # Paper
 
 - Every competing approach should submit a 12 pages article written in english describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
