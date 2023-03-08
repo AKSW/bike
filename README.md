@@ -61,6 +61,11 @@ Please refer to the NatUKE benchmark paper for further details.
 
 On 12th of Feburary we decided to split the submission in two stages (1) results and (2) papers.
 
+## Pre-registration
+
+We encourage participants to perform a pre-registration to keep informed about any changes on the program.
+Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
+
 ## Results
 
 - Every competing team should submit their results using the paper template.
@@ -71,12 +76,7 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
   - Title, Authors and respective affiliations;
   - To facilitate your result submission, we prepared a template: [https://www.overleaf.com/read/zcbppmhfkbpd](https://www.overleaf.com/read/zcbppmhfkbpd)
 
-# [QA](https://aksw.github.io/bike/#qa)
-
-To help participants to get onboard, we have created an QA channel at slack, you can post your questions directly there: 
-- https://chemnet.slack.com/archives/C04QZ77BS2K 
-
-# Paper
+## Paper
 
 - Every competing approach should submit a 12 pages article written in english describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
 
@@ -89,6 +89,11 @@ To help participants to get onboard, we have created an QA channel at slack, you
 - Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be held online). Not complying with this rule may make the approach automatically disqualified.
 
 - All papers should be submitted to easychair under the following link  [https://easychair.org/conferences/?conf=bike2023](https://easychair.org/conferences/?conf=bike2023).
+
+# [QA](https://aksw.github.io/bike/#qa)
+
+To help participants to get onboard, we have created an QA channel at slack, you can post your questions directly there: 
+- https://chemnet.slack.com/archives/C04QZ77BS2K 
 
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
