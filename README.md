@@ -8,7 +8,7 @@ However, to date, most of the structured biochemical information available on th
 # Pre-registration
 
 We encourage participants to perform a pre-registration to keep informed about any changes on the program.
-Pre-registrations can be performed through the online form: [t.ly/7xvFD](t.ly/7xvFD)
+Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
 
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
@@ -93,7 +93,7 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
 # [QA](https://aksw.github.io/bike/#qa)
 
 To help participants to get onboard, we created an QA channel at Slack, you can post your questions directly there: 
-- https://chemnet.slack.com/archives/C04QZ77BS2K 
+- t.ly/7xvFD 
 
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
