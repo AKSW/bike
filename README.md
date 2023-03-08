@@ -5,17 +5,16 @@ The knowledge of over 50 years of studies on biodiversity available in scientifi
 However, to date, most of the structured biochemical information available on the Web is manually curated, and it is practically impossible to keep pace with the research being constantly published in scientific articles. Within this challenge, we want to speed up and promote research on automatic biochemical knowledge extraction mechanisms by the Semantic Web scientific community to increase the information available on natural products to promote the development of environmental-friendly products while increasing the community's awareness of the biodiversity value.
 
 
+# Pre-registration
+
+We encourage participants to perform a pre-registration to keep informed about any changes on the program.
+Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
+
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
 We invite researchers to participate by re-using or designing new innovative Biochemical Extraction methods. 
 The participants will have the opportunity to present, discuss and display their knowledge extraction approach at the BiKE workshop.
 The Challenge consists in extracting relevant information from a set of biochemical research articles and constructing a knowledge graph through a given ontology.
-
-
-# Pre-registration
-
-We encourage participants to perform a pre-registration to keep informed about any changes on the program.
-Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
 
 ## Training Data set
 
