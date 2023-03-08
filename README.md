@@ -86,13 +86,13 @@ Pre-registrations can be performed through the online form: [https://forms.gle/2
 
 - The accepted contributions will be evaluated based on its quality and published in the proceedings of the workshop. 
 
-- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be held online). Not complying with this rule may make the approach automatically disqualified.
+- Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be held online). Not complying with this rule may lead to a disqualification.
 
 - All papers should be submitted to easychair under the following link  [https://easychair.org/conferences/?conf=bike2023](https://easychair.org/conferences/?conf=bike2023).
 
 # [QA](https://aksw.github.io/bike/#qa)
 
-To help participants to get onboard, we have created an QA channel at slack, you can post your questions directly there: 
+To help participants to get onboard, we have created an QA channel at Slack, you can post your questions directly there: 
 - https://chemnet.slack.com/archives/C04QZ77BS2K 
 
 
