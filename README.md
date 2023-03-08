@@ -8,7 +8,7 @@ However, to date, most of the structured biochemical information available on th
 # Pre-registration
 
 We encourage participants to perform a pre-registration to keep informed about any changes on the program.
-Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
+Pre-registrations can be performed through the online form: [t.ly/7xvFD](t.ly/7xvFD)
 
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
