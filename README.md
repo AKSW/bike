@@ -11,6 +11,12 @@ We invite researchers to participate by re-using or designing new innovative Bio
 The participants will have the opportunity to present, discuss and display their knowledge extraction approach at the BiKE workshop.
 The Challenge consists in extracting relevant information from a set of biochemical research articles and constructing a knowledge graph through a given ontology.
 
+
+# Pre-registration
+
+We encourage participants to perform a pre-registration to keep informed about any changes on the program.
+Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
+
 ## Training Data set
 
 The dataset used for evaluation and training was generated from hundreds of peer-reviewed scientific articles with information on more than 2,521 possibilities of natural product extraction. 
@@ -60,11 +66,6 @@ Please refer to the NatUKE benchmark paper for further details.
 # [Submission guidelines](https://aksw.github.io/bike/#challenge)
 
 On 12th of Feburary we decided to split the submission in two stages (1) results and (2) papers.
-
-## Pre-registration
-
-We encourage participants to perform a pre-registration to keep informed about any changes on the program.
-Pre-registrations can be performed through the online form: [https://forms.gle/2sMUUondkULRwnE66](https://forms.gle/2sMUUondkULRwnE66)
 
 ## Results
 
