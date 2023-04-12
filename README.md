@@ -120,6 +120,8 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 Edgard Marx, HTWK, Germany
 
+Sanju Tiwari, UAM, Mexico
+
 Joao Victor da Silva e Silva, USP, Brazil
 
 Marilia Valli, USP, Brazil
