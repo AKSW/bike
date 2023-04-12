@@ -93,8 +93,7 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
 # [QA](https://aksw.github.io/bike/#qa)
 
 To help participants to get onboard, we created an QA channel at Slack, you can post your questions directly there: 
-- [https://join.slack.com/share/enQtNDkxNzA3MDg1NjEzMC1jNTllOWQwNTA3OGE1YzdkNmQ4YmY2ZmY1ZTMwMDQ3ZmZlOWVkNWIzNTFhMzk5MWUxOWMwNzg5MmNkZDMxZTQ2](https://join.slack.com/share/enQtNDkxNzA3MDg1NjEzMC1jNTllOWQwNTA3OGE1YzdkNmQ4YmY2ZmY1ZTMwMDQ3ZmZlOWVkNWIzNTFhMzk5MWUxOWMwNzg5MmNkZDMxZTQ2)
-
+- [https://join.slack.com/share/enQtNTEyMzk1NzM5MTIxNi03ZjliYTg3YjBiYWY4NGZiNjRiNDk3Yzg2YjhiZDcyYzUxNWJlYzUyNDgyNjYzYjU3MThkNGZmNTNhNzllN2Y4](https://join.slack.com/share/enQtNTEyMzk1NzM5MTIxNi03ZjliYTg3YjBiYWY4NGZiNjRiNDk3Yzg2YjhiZDcyYzUxNWJlYzUyNDgyNjYzYjU3MThkNGZmNTNhNzllN2Y4)
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
