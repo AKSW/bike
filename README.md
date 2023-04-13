@@ -95,6 +95,10 @@ On 12th of Feburary we decided to split the submission in two stages (1) results
 To help participants to get onboard, we created an QA channel at Slack, you can post your questions directly there: 
 - [https://join.slack.com/share/enQtNTEyMzk1NzM5MTIxNi03ZjliYTg3YjBiYWY4NGZiNjRiNDk3Yzg2YjhiZDcyYzUxNWJlYzUyNDgyNjYzYjU3MThkNGZmNTNhNzllN2Y4](https://join.slack.com/share/enQtNTEyMzk1NzM5MTIxNi03ZjliYTg3YjBiYWY4NGZiNjRiNDk3Yzg2YjhiZDcyYzUxNWJlYzUyNDgyNjYzYjU3MThkNGZmNTNhNzllN2Y4)
 
+# [Contact](https://aksw.github.io/bike/#contact)
+
+- edgard.marx@htwk-leipzig.de
+
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
 - Release of training data and instructions: Friday, January 20th, 2023 PST
