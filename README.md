@@ -122,26 +122,27 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### 08:30 - Welcome (Edgard Marx)
 
-    - 08:30 - Registration at the Conference
-    - 09:00 - Welcome (Edgard Marx)
+- 08:30 - Registration at the Conference
+- 09:00 - Welcome (Edgard Marx)
 
 ### 09:10 - Keynote
 
-    **Discovering Natural Inspired Products from Brazilian Biodiversity** by Edgard Marx (Project Manager at the [HTWK](https://www.htwk-leipzig.de/) and [Linked Data Expert at eccenca](https://www.eccenca.com/))
+**Discovering Natural Inspired Products from Brazilian Biodiversity** by Edgard Marx (Project Manager at the [HTWK](https://www.htwk-leipzig.de/) and Linked Data Expert at [eccenca](https://www.eccenca.com/))
+
 
 ### 09:30 - Session 1 (Chair: Edgard Marx)
 
-    - 09:30 - **NaTUKE: A Benchmark for Natural Product Knowledge Extraction from Academic Literature** by Paulo do Viviurka do Carmo (researcher at HTWK, Germany)
-    - 09:50 - **The NuBBE Knwoledge Graph: A Biockemical Knowledge Graph of Natural Products from Brazilian Biodiversity** by Istvan Mocy (researcher at HTWK, Germany)
-    - 10:10 - **Improving natural product automatic extraction with named entity recognition** by Stefan Schmidt-Dichte and István J. Mócsy (HTWK, Germany)
+- 09:30 - **NaTUKE: A Benchmark for Natural Product Knowledge Extraction from Academic Literature** by Paulo do Viviurka do Carmo (Researcher at HTWK, Germany)
+- 09:50 - **The NuBBE Knwoledge Graph: A Biockemical Knowledge Graph of Natural Products from Brazilian Biodiversity** by Istvan Mocy (Researcher at HTWK, Germany)
+- 10:10 - **Improving natural product automatic extraction with named entity recognition** by Stefan Schmidt-Dichte and István J. Mócsy (HTWK, Germany)
 
 ### 10:30 - Coffee Break
 
 ### 11:00 - Session 2 (Chair: Paulo do Carmo)
 
-    - 11:00 - **Enhancing Biochemical Extraction with BFS-driven Knowledge Graph Embedding approach** by Bhushan Zope, Sashikala Mishra and Sanju Tiwari
-    - 11:20 - to be announced
-    - 11:40 - **Awards**
+- 11:00 - **Enhancing Biochemical Extraction with BFS-driven Knowledge Graph Embedding approach** by Bhushan Zope, Sashikala Mishra and Sanju Tiwari
+- 11:20 - to be announced
+- 11:40 - **Awards**
 
 ### 12:00 - Lunch
 
