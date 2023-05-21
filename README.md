@@ -140,8 +140,8 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### 11:00 - Session 2 (Chair: Paulo do Carmo)
 
-- 11:00 - **Enhancing Biochemical Extraction with BFS-driven Knowledge Graph Embedding approach** by Bhushan Zope, Sashikala Mishra and Sanju Tiwari
-- 11:20 - to be announced
+- 11:00 - **Enhancing Biochemical Extraction with BFS-driven Knowledge Graph Embedding approach** by Bhushan Zope, Sashikala Mishra and Sanju Tiwari (SIU, India)
+- 11:20 - **BiKE Challenge: Result of ChemiScope by using ChatGPT** by Matthias Jooß, Jonas Gwozdz and Pit Fröhlich (HTWK, Germany)
 - 11:40 - **Awards**
 
 ### 12:00 - Lunch
