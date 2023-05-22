@@ -107,7 +107,7 @@ To help participants to get onboard, we created an QA channel at Slack, you can 
 - **(extended)** Paper submission deadline: ~~February 28th, 2023~~ **May 27th, 2023 PST**
 - **(extended)** Notification & Reviews: ~~March 28th, 2023~~ **Jun 15th, 2023 PST**
 - **(extended)** Submission of camera-ready papers: ~~April 11th, 2023~~ **Jun 27th, 2023 PST**
-- Workshop at ESWC: ``coming soon``
+- Workshop at ESWC: ***28.05.2023***
 
 # [Awards](https://aksw.github.io/bike/#awards)
 
