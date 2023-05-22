@@ -117,7 +117,7 @@ The first, second, and third best biochemical knowledge extraction methods are g
 - ``Second Place``: EUR 500
 - ``Third Place``: EUR 250
 
-# [Program](https://aksw.github.io/bike/#program)
+# [Program](https://aksw.github.io/bike/#program) 28.05.2023
 
 
 ### 08:30 - Welcome (Edgard Marx)
