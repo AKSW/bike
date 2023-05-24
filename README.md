@@ -104,9 +104,9 @@ To help participants to get onboard, we created an QA channel at Slack, you can 
 - Release of training data and instructions: Friday, January 20th, 2023 PST
 - **(extended)** Result submission deadline: ~~April 27th, 2023 PST~~ **May 19th, 2023 PST**
 - **(extended)** Release of test dataset & results: ~~April 7th, 2023~~ **May 22th, 2023 PST**
-- **(extended)** Paper submission deadline: ~~February 28th, 2023~~ **May 27th, 2023 PST**
-- **(extended)** Notification & Reviews: ~~March 28th, 2023~~ **Jun 15th, 2023 PST**
-- **(extended)** Submission of camera-ready papers: ~~April 11th, 2023~~ **Jun 27th, 2023 PST**
+- **(extended)** Paper submission deadline: ~~February 28th, 2023~~ **June 20th, 2023 PST**
+- **(extended)** Notification & Reviews: ~~March 28th, 2023~~ **June 30th, 2023 PST**
+- **(extended)** Submission of camera-ready papers: ~~April 11th, 2023~~ **July 17th, 2023 PST**
 - Workshop at ESWC: ***28.05.2023***
 
 # [Awards](https://aksw.github.io/bike/#awards)
