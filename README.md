@@ -133,7 +133,7 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### 09:30 - Session 1 (Chair: Edgard Marx)
 
-- 09:30 - **NaTUKE: A Benchmark for Natural Product Knowledge Extraction from Academic Literature** by Paulo do Viviurka do Carmo (Researcher at HTWK, Germany)
+- 09:30 - **NaTUKE: A Benchmark for Natural Product Knowledge Extraction from Academic Literature** by Paulo Ricardo Viviurka do Carmo (Researcher at HTWK, Germany)
 - 09:50 - **The NuBBE Knowledge Graph: A Biochemical Knowledge Graph of Natural Products from Brazilian Biodiversity** by István J. Mócsy (Researcher at HTWK, Germany)
 - 10:10 - **Improving natural product automatic extraction with named entity recognition** by Stefan Schmidt-Dichte and István J. Mócsy (HTWK, Germany)
 
