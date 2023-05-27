@@ -127,7 +127,7 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### 09:00 - Welcome
 
-**Towards Discovering Natural Inspired Products from Biodiversity** by Edgard Marx (Project Manager at the [HTWK](https://www.htwk-leipzig.de/) and Linked Data Expert at [eccenca](https://www.eccenca.com/))
+**Towards Natural Inspired Products from Biodiversity** by Edgard Marx (Project Manager at the [HTWK](https://www.htwk-leipzig.de/) and Linked Data Expert at [eccenca](https://www.eccenca.com/))
 
 ### 09:30 - Session 1 (Chair: Edgard Marx)
 
