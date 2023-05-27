@@ -124,12 +124,10 @@ The first, second, and third best biochemical knowledge extraction methods are g
 ### 08:30 - Welcome (Edgard Marx)
 
 - 08:30 - Registration at the Conference
-- 09:00 - Welcome (Edgard Marx)
 
-### 09:10 - Keynote
+### 09:00 - Welcome
 
-**Discovering Natural Inspired Products from Brazilian Biodiversity** by Edgard Marx (Project Manager at the [HTWK](https://www.htwk-leipzig.de/) and Linked Data Expert at [eccenca](https://www.eccenca.com/))
-
+**Towards Discovering Natural Inspired Products from Biodiversity** by Edgard Marx (Project Manager at the [HTWK](https://www.htwk-leipzig.de/) and Linked Data Expert at [eccenca](https://www.eccenca.com/))
 
 ### 09:30 - Session 1 (Chair: Edgard Marx)
 
