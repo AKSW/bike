@@ -153,7 +153,7 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### Second Place:
 
-- **Improving natural product automatic extraction with named entity recognition** by	Stefan Schmidt-Dichte and István J. Mócsy
+- **Improving natural product automatic extraction with named entity recognition** by	Stefan Schmidt-Dichte and István J. Mócsy (HTWK, Germany)
 
 ### Third Place:
 
