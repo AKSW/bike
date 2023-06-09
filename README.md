@@ -145,7 +145,7 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### 12:00 - Lunch
 
-# [Result](https://aksw.github.io/bike/#results)
+# [Results](https://aksw.github.io/bike/#results)
 
 ### First Place:
 
