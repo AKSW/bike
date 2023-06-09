@@ -66,7 +66,7 @@ Please refer to the NatUKE benchmark paper for further details.
 
 On 12th of Feburary we decided to split the submission in two stages (1) results and (2) papers.
 
-## Results
+## Rules
 
 - Every competing team should submit their results using the paper template.
 
