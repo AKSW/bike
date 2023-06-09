@@ -149,15 +149,15 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 ### First Place:
 
-**BiKE Challenge: Result of ChemiScope by using ChatGPT** by Matthias Jooß, Jonas Gwozdz and Pit Fröhlich (HTWK, Germany)
+- **BiKE Challenge: Result of ChemiScope by using ChatGPT** by Matthias Jooß, Jonas Gwozdz and Pit Fröhlich (HTWK, Germany)
 
 ### Second Place:
 
-**Improving natural product automatic extraction with named entity recognition** by	Stefan Schmidt-Dichte and István J. Mócsy
+- **Improving natural product automatic extraction with named entity recognition** by	Stefan Schmidt-Dichte and István J. Mócsy
 
 ### Third Place:
 
-**Enhancing Biochemical Extraction with BFS-driven Knowledge Graph Embedding approach** by Bhushan Zope, Sashikala Mishra and Sanju Tiwari (SIU, India)
+- **Enhancing Biochemical Extraction with BFS-driven Knowledge Graph Embedding approach** by Bhushan Zope, Sashikala Mishra and Sanju Tiwari (SIU, India)
 
 # [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
