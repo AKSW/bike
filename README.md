@@ -165,7 +165,7 @@ The first, second, and third best biochemical knowledge extraction methods are g
 
 Edgard Marx, HTWK, Germany
 
-### Program Committee
+### Organizing Committee
 
 Sanju Tiwari, UAM, Mexico
 
