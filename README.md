@@ -113,7 +113,7 @@ TBA
 
 Edgard Marx, InfAI, Germany
 
-### Organizing Committee
+### Program Committee
 
 Sanju Tiwari, UAM, Mexico
 
