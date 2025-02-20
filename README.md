@@ -89,7 +89,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 - Each competing approach needs to be registered and presented by one of the authors at the workshop (presentations can be held online). Not complying with this rule may lead to disqualification.
 
-- All papers should be submitted to easychair under the link  [https://easychair.org/conferences/?conf=bike2023](https://easychair.org/conferences/?conf=bike2023).
+- All papers should be submitted to easychair under the link  [https://easychair.org/conferences/?conf=bike2025](https://easychair.org/conferences/?conf=bike2025)(https://easychair.org/my/conference?conf=bike2025)).
 
 # [QA](https://aksw.github.io/bike/#qa)
 
