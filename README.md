@@ -103,7 +103,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 - Release of training data and instructions: Friday, January 1st, 2025 PST
 - Result submission deadline: May 16th, 2025 PST
-- Release of test dataset & results: May 23th, 2025 PST
+- Release of test dataset & results: May 23rd, 2025 PST
 - Paper submission deadline: June 20th, 2025 PST
 - Notification & Reviews: June 30th, 2025 PST
 - Submission of camera-ready papers: July 14th, 2025 PST
