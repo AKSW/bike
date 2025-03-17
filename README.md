@@ -93,7 +93,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 # [QA](https://aksw.github.io/bike/#qa)
 
-- https://discord.gg/xv63SADg
+- [https://discord.gg/xv63SADg](https://discord.gg/zrB6AKHJ) -> contact us if it is expired ;-)
 
 # [Contact](https://aksw.github.io/bike/#contact)
 
