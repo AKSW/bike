@@ -120,6 +120,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 - 09:50 - **SPARKS KENYA** by Ronald Ojino, Titus Muthomi Kimaani, Faridah Atieno Onyango (University of Kenya, Kenya)
 - 10:00 - **Kerala & Sharda University** by Bharath Chand R P,  Dr. Sanju Tiwari (India)
 - 10:10 - **Awards**
+
 ### 10:20 - Coffee Break
 
 
