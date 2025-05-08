@@ -107,11 +107,21 @@ The submission will be made in two stages: (1) results and (2) papers.
 - Paper submission deadline: June 20th, 2025 PST
 - Notification & Reviews: June 30th, 2025 PST
 - Submission of camera-ready papers: July 14th, 2025 PST
-- Workshop: TBA
+- Workshop: June 1st
 
 # [Program](https://aksw.github.io/bike/#program) 
 
-TBA
+### 09:00 - Welcome (Chair: Edgard Marx)
+
+- 09:10 - **Amigos do Gil** by Paulo Ricardo Viviurka do Carmo (USP, Brazil)
+- 09:20 - **KBE - IBM Research** by Anaximandro Souza, Viviane Torres, Marcelo Archanjo (IBM, Brazil)
+- 09:30 - **Aryabhatta** by Dr. Sanju Tiwari and Rishit Agarwal (Shodhguru Labs, India)
+- 09:40 - **Tsotsa Lab** by Furel Teguimene, Fidel Jiomekong, Sanju Tiwari (University of Youndé, Camaroon)
+- 09:50 - **SPARKS KENYA** by Ronald Ojino, Titus Muthomi Kimaani, Faridah Atieno Onyango (University of Kenya, Kenya)
+- 10:00 - **Kerala & Sharda University** by Bharath Chand R P,  Dr. Sanju Tiwari (India)
+- 10:10 - **Awards**
+### 10:20 - Coffee Break
+
 
 # [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
