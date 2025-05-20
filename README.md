@@ -69,7 +69,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 ## Results
 
-- Every competing team should submit their results using the paper template.
+- Every competing team should submit their results at the workshop Easychair [https://easychair.org/conferences/?conf=bike2025](https://easychair.org/conferences/?conf=bike2025) using the paper template.
 
 - The only information mandatory in the result submission is as follows:
   - A table containing the performance of your approach in comparison with the baseline;
