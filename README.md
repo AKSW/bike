@@ -102,7 +102,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
 - Release of training data and instructions: Friday, January 1st, 2025 PST
-- Result submission deadline: May 16th, 2025 PST
+- Result submission deadline: **May 16th, 2025 PST** May 26th, 2025 PST
 - Release of test dataset & results: May 23rd, 2025 PST
 - Paper submission deadline: June 20th, 2025 PST
 - Notification & Reviews: June 30th, 2025 PST
