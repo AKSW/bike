@@ -113,7 +113,8 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 ### 09:00 - Welcome (Chair: Edgard Marx)
 
-- 09:10 - **Amigos do Gil** by Paulo Ricardo Viviurka do Carmo (USP, Brazil)
+- 09:10 - **Amigos do Gil** by Marcos Paulo Silva Gôlo, José Gilberto Barbosa de Medeiros Junior, Gabriele Souza Vilas Boas and Fábio Manoel França Lobato
+ (USP, Brazil)
 - 09:25 - **Kerala & Sharda University** by Bharath Chand R P,  Dr. Sanju Tiwari (India)
 - 09:40 - **BALLENA** by Jonaz Gwozdz (HTWK, Germany)
 - 09:55 - **QA & Awards**
