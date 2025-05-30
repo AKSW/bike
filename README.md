@@ -113,13 +113,14 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 ### 09:00 - Welcome (Chair: Edgard Marx)
 
-- 09:10 - **Amigos do Gil** by Marcos Paulo Silva Gôlo, José Gilberto Barbosa de Medeiros Junior, Gabriele Souza Vilas Boas and Fábio Manoel França Lobato
+- 09:10 - **Introduction** Edgard Marx
+- 09:20 - **Amigos do Gil** by Marcos Paulo Silva Gôlo, José Gilberto Barbosa de Medeiros Junior, Gabriele Souza Vilas Boas and Fábio Manoel França Lobato
  (USP, Brazil)
-- 09:25 - **Kerala & Sharda University** by Bharath Chand R P,  Dr. Sanju Tiwari (India)
-- 09:40 - **BALLENA** by Jonaz Gwozdz (HTWK, Germany)
-- 09:55 - **QA & Awards**
+- 09:35 - **Kerala & Sharda University** by Bharath Chand R P,  Dr. Sanju Tiwari (India)
+- 09:50 - **BALLENA** by Jonaz Gwozdz (HTWK, Germany)
+- 10:05 - **QA & Awards**
 
-### 10:10 - Coffee Break
+### 10:20 - Coffee Break
 
 #### The following teams have withdrawn 
 
@@ -127,9 +128,6 @@ The submission will be made in two stages: (1) results and (2) papers.
 - **Aryabhatta** by Dr. Sanju Tiwari and Rishit Agarwal (Shodhguru Labs, India)
 - **Tsotsa Lab** by Furel Teguimene, Fidel Jiomekong, Sanju Tiwari (University of Youndé, Camaroon)
 - **SPARKS KENYA** by Ronald Ojino, Titus Muthomi Kimaani, Faridah Atieno Onyango (University of Kenya, Kenya)
-
-
-
 
 # [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
