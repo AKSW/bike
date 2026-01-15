@@ -129,3 +129,4 @@ Thomas Riechert, HTWK, Germany
 # [Previous Editions](https://aksw.github.io/bike/#previous-editions)
 
 - [2023 First Edition](https://aksw.github.io/bike/2023)
+- [2025 First Edition](https://aksw.github.io/bike/2025)
