@@ -101,7 +101,13 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
-- TBA
+- Release of training data and instructions: Friday, January 15th, 2026 PST
+- Result submission deadline: April 17th, 2026 PST
+- Release of test dataset & results: April 24th, 2026 PST
+- Paper submission deadline: June 19th, 2026 PST
+- Notification & Reviews: June 26th, 2026 PST
+- Submission of camera-ready papers: July 17th, 2026 PST
+- Workshop: May 10th
 
 # [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
