@@ -8,7 +8,7 @@ However, to date, most of the structured biochemical information available on th
 # Pre-registration
 
 We encourage participants to perform a pre-registration to keep informed about any changes in the program.
-Pre-registrations can be performed through the online form: TBA
+Pre-registrations can be performed through the online form: [https://forms.gle/823P45CZAichxZJR8](https://forms.gle/823P45CZAichxZJR8)
 
 # [Challenge](https://aksw.github.io/bike/#challenge)
 
@@ -93,11 +93,11 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 # [QA](https://aksw.github.io/bike/#qa)
 
-- Please use GiHub issues
+- [Please use GiHub issues](https://github.com/AKSW/bike/issues)
 
 # [Contact](https://aksw.github.io/bike/#contact)
 
-- Please use GiHub issues
+- [Please use GiHub issues](https://github.com/AKSW/bike/issues)
 
 # [Agenda](https://aksw.github.io/bike/#agenda)
 
