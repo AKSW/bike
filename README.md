@@ -113,7 +113,7 @@ The submission will be made in two stages: (1) results and (2) papers.
 
 ### General Chair
 
-Edgard Marx, InfAI, Germany
+Edgard Marx, Byondis, The Netherlands
 
 ### Program Committee
 
