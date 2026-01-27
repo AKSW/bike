@@ -125,6 +125,8 @@ Marilia Valli, USP, Brazil
 
 Paulo Ricardo Viviurka do Carmo, HTWK, Germany
 
+Bharath Chand P, University of Kerala, India
+
 ### Advisory Committee
 
 Vanderlan da Silva Bozani, UNESP, Brazil
