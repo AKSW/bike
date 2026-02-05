@@ -127,6 +127,8 @@ Paulo Ricardo Viviurka do Carmo, HTWK, Germany
 
 Bharath Chand P, University of Kerala, India
 
+Neena Mishra, MUIT, India
+
 ### Advisory Committee
 
 Vanderlan da Silva Bozani, UNESP, Brazil
