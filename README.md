@@ -75,13 +75,13 @@ The submission will be made in two stages: (1) results and (2) papers.
   - A table containing the performance of your approach in comparison with the baseline;
   - A link to an open repository containing the code used for training and all the necessary resources, including files and pre-trained models to replicate the results;
   - Title, Authors, and respective affiliations;
-  - To facilitate your result submission, we prepared a template: [https://www.overleaf.com/read/zcbppmhfkbpd](https://www.overleaf.com/read/zcbppmhfkbpd)
+  - To facilitate your result submission, we prepared a template: [https://www.overleaf.com/read/fzhbcqnctpgd#d2dc06](https://www.overleaf.com/read/fzhbcqnctpgd#d2dc06)
 
 ## Paper
 
 - Every competing approach should submit a 12-page article written in English describing the method in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For further instructions, you can check the Springer Conference Proceeding templates at [Springer submission guidelines](https://www.springer.com/de/it-informatik/lncs/conference-proceedings-guidelines).
 
-- Paper Overleaf Template: [https://www.overleaf.com/read/zcbppmhfkbpd](https://www.overleaf.com/read/zcbppmhfkbpd)
+- Paper Overleaf Template: [https://www.overleaf.com/read/fzhbcqnctpgd#d2dc06](https://www.overleaf.com/read/fzhbcqnctpgd#d2dc06)
 
 - All submissions will be peer-reviewed by the Program Committee. 
 
