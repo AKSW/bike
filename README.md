@@ -139,9 +139,9 @@ Sanju Tiwari, Sharda University, Delhi-NCR, India
 
 Marilia Valli, USP, Brazil
 
-### Student Assistant
-
 Paulo Ricardo Viviurka do Carmo, HTWK, Germany
+
+### Student Assistant
 
 Bharath Chand P, University of Kerala, India
 
