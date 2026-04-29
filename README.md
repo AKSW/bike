@@ -109,6 +109,24 @@ The submission will be made in two stages: (1) results and (2) papers.
 - Submission of camera-ready papers: July 17th, 2026 PST
 - Workshop: May 10th
 
+# [Program](https://aksw.github.io/bike/#program) 
+
+### 09:00 - Welcome (Chair: Edgard Marx)
+
+- 09:10 - **Introduction** by Paulo do Carmo
+- 09:20 - **Takeda Lab** by Shixiong Zhao, Yanming He, Lakshan Karunathilake and Hideaki Takeda
+ (National Institute of Informatics, Japan)
+- 09:35 - **CareWeavers** by Khyati Patni, Daksh Sammi, Diksha Kashyap and Rahul Kharkwal (Microcrispr, India)
+- 09:50 - **SPHOTA-NEXT** by Bharath Chand, Thara Prabhakaran, Sanju Tiwari
+ (University of Kerala, Sharda University, India)
+- 10:05 - **QA & Awards**
+
+### 10:20 - Coffee Break
+
+#### The following teams have withdrawn 
+
+- **Interprid** by Olusola Afuwape and others (University of Lagos, Nigeria)
+
 # [Organizing Committee](https://aksw.github.io/bike/#organizing-committee)
 
 ### General Chair
